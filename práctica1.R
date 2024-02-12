@@ -1,5 +1,5 @@
 getwd()
-nuevo_dir <- "C:\Documentos\practicaGestionDatosR"
+nuevo_dir <- "C:\practicaGestionDatosR"
 setwd(nuevo_dir)
 
 # ejercicio 1
